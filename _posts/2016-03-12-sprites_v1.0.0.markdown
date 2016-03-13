@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "honest_abe-sprites v1.0.0 Release"
+date:   2016-03-12 19:40:00 -0600
+categories: honest_abe-sprites v1.0.0 release
+---
+UNO CSCI 4675 Spring 2016 will release an official `honest_abe` v1.0.0 build and sub-projects this weekend. To start things off here are some highlights of our `honest_abe-sprites` project:
+
+* [Dense, far off forest][forest_background_far]
+* [A dirt-patched grassland][forest_terrain]
+* [Abe hat][abe_hat]
+* [Medical pack][med_pack]
+
+[abe_hat]: https://raw.githubusercontent.com/UNO-CSCI-4675/honest_abe_sprites/master/Images/Props/AbeHat.png
+[forest_background_far]: https://raw.githubusercontent.com/UNO-CSCI-4675/honest_abe_sprites/master/Images/PixelizingExperiments/backgroundForestFarTemplate3.png
+[forest_terrain]: https://raw.githubusercontent.com/UNO-CSCI-4675/honest_abe_sprites/master/Images/PixelizingExperiments/parralaxforegroundtemplate.png
+[med_pack]: https://raw.githubusercontent.com/UNO-CSCI-4675/honest_abe_sprites/master/Images/Props/MedPack.png
